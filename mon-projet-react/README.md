@@ -28,9 +28,11 @@ Ce TP permet de **consolider toutes les notions vues précédemment** :
 
 1.  **Pouvoir modifier (éditer)** une tâche ou un article  
 2.  **Ajouter du style** avec **Bootstrap** ou **Tailwind CSS**  
-3.  **Afficher un message d’erreur** si le champ est vide  
+3.  **Afficher un message d’erreur** si le champ est vide
 
-msg erreur image 
+   
+<img width="1776" height="639" alt="Capture d&#39;écran 2025-11-09 134640" src="https://github.com/user-attachments/assets/d5ed9c3b-64d0-460f-8749-c11412367889" />
+
 
 ###  **Technologies utilisées**
 
@@ -42,4 +44,12 @@ msg erreur image
 Le projet est en ligne sur Netlify  :
 
 https://to-dooo-listproject.netlify.app
+
+Video DEMO :
+
+
+
+https://github.com/user-attachments/assets/b5ffe973-e99c-4e27-8b9c-f8df6ba96830
+
+
 
